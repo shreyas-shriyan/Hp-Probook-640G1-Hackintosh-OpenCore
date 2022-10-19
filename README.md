@@ -11,3 +11,4 @@ If you find errors or have any improvements (whether in the configuration or in 
 # Credits
 - [@angelts](https://osxlatitude.com/forums/topic/14378-big-sur-on-hp-probook-650-g1/page/3/) for base EFI.
 - [@CLAY-BIOS](https://github.com/CLAY-BIOS) for README inspiration.
+- [jwise](https://github.com/jwise) for [HoRNDIS](https://github.com/jwise/HoRNDIS)
