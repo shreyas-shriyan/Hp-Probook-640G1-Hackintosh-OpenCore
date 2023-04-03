@@ -5,11 +5,14 @@
 [![ProBook](https://img.shields.io/badge/ProBook-640G1-orange)](https://support.hp.com/in-en/document/c04027668)
 
 **DISCLAIMER:**
-I don't accept any responsibility for any damage that may be caused.
+Use the code at your own risk.
 If you find errors or have any improvements (whether in the configuration or in the document), consider opening an issue or a pull request.
+
+# Download
+[Latest Release](https://github.com/shreyas-shriyan/Hp-Probook-640G1-Hackintosh-OpenCore/releases)
 
 # Credits
 
 - [@angelts](https://osxlatitude.com/forums/topic/14378-big-sur-on-hp-probook-650-g1/page/3/) for base EFI.
-- [@CLAY-BIOS](https://github.com/CLAY-BIOS) for README inspiration.
+- [@acidanthera](https://github.com/acidanthera/OpenCorePkg) for OpenCore.
 - [@jwise](https://github.com/jwise) for [HoRNDIS](https://github.com/jwise/HoRNDIS)
