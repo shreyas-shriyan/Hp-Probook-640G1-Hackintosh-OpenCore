@@ -1,6 +1,6 @@
 # Hp Probook 640G1 Monterey, BigSur OpenCore 0.8.8
 
-[![MacOS](https://img.shields.io/badge/MacOS-12.6.3-blue)](https://developer.apple.com/documentation/macos-release-notes)
+[![MacOS](https://img.shields.io/badge/MacOS-12.6.4-blue)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.8-green)](https://github.com/acidanthera/OpenCorePkg)
 [![ProBook](https://img.shields.io/badge/ProBook-640G1-orange)](https://support.hp.com/in-en/document/c04027668)
 
