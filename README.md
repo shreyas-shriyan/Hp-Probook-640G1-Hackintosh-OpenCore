@@ -6,7 +6,7 @@
 
 **DISCLAIMER:**
 Use the code at your own risk.
-If you find errors or have any improvements (whether in the configuration or in the document), consider opening an issue or a pull request.
+If you find errors or have any improvements, consider opening an issue or a pull request.
 
 # Download
 [Latest Release](https://github.com/shreyas-shriyan/Hp-Probook-640G1-Hackintosh-OpenCore/releases)
